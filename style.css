@@ -7,10 +7,12 @@ body {
 }
 
 header {
-  background-color: #645c84;
   width: 100%;
   height: 100vh;
   position: relative;
+  background-image: url("coding-background.jpg");
+  background-size: cover;
+  background-position: center;
 }
 
 main {
